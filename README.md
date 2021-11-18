@@ -35,4 +35,4 @@ How I deployed the page in gitHUB
 The live link can be found here- (the link)
 
 ## Credits
-the people that helped on tge project
+the people that helped on the project
