@@ -3,7 +3,7 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
-    background-color: red;
+    background-color: pink;
 }
 
 h1, h2 {
@@ -54,52 +54,50 @@ p > a {
     text-decoration: none;
 }
 
+.active {
+    border-bottom: 1px solid #252525;
+}
 
 
+/* Page Content */
 
-.centred-text {
+.centered-text {
     padding: 1.5rem;
 }
 
 
 
-
-.top {
+.first {
     display: flex;
     justify-content: space-between;
+    margin: 0;
+    padding: 0;
 }
 
-.bottom {
-    display: flex;
-    justify-content: space-between;
-}
-
-
-#titan {
+#left {
     position: relative;
     right: 10px;
 }
 
-#demon {
+#right {
     position: relative;
     left: 10px;
 }
 
-#naruto {
-    position: relative;
-    right: 10px;
-}
-
-#piece {
-    position: relative;
-    left: 10px;
-}
-
-#text {
+.text {
     width: 50%;
 }
 
 img {
     width: 300px;
     height: 400px;
+}
+
+
+
+.up {
+    position: relative;
+    bottom: 30px;
+    margin: 0;
+    padding: 0;
 }
