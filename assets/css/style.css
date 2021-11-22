@@ -58,6 +58,10 @@ p > a {
     border-bottom: 1px solid #252525;
 }
 
+p {
+
+}
+
 
 /* Page Content */
 
@@ -100,4 +104,40 @@ img {
     bottom: 30px;
     margin: 0;
     padding: 0;
+}
+
+@media screen and (max-width: 1200px) {
+
+    body {
+        background-color: lightblue;
+    }
+
+    #title {
+        display: flex;
+        width: 450px;
+        position: relative;
+        left: 350px;
+        font-size: 280%;
+        margin-left: 10px;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    #menu {
+        width: 1290px;
+        position: relative;
+        right: 100px;
+    }
+
+    .first {
+        width: 1200px;
+    }
+
+    p {
+        font-size: 40%;
+    }
+
+    
+
 }
