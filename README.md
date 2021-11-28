@@ -107,7 +107,7 @@ This site was developed in Gitpod, committed and pushed to Github, and deployed 
 1. Logged in Github and navigated to the site's repository.
 2. Clicked on **Settings** in the toolbar near the top of the screen.
 3. Clicked on **Pages** on the left side of the **Settings** page.
-4. Under the **Source** heading, clicked on the **Branch** dropdown, and selected **Master**.
+4. Under the **Source** heading, clicked on the **Branch** dropdown, and selected **Main**.
 5. Clicked on **Save**, deploying the site.
 6. Clicked on the URL at the top of the **GitHub Pages** section to navigate to the live site.
 
