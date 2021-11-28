@@ -44,7 +44,7 @@ This website is intended for beginner or intermediate anime watchers,in hopes of
 - The landing page has an explanation of what this site hopes to provide for the user
 - The landing Page also has a video that any level Anime fan will find enjoyable
 3. **The Official List**
--The official list is just like it sounds, it has a community voted list of the most enjoyable anime there is
+- The official list is just like it sounds, it has a community voted list of the most enjoyable anime there is
 4. **My Personal List**
 - My Personal List is a list I created of under rated or not as well known anime that I think everyone should try and watch of there quality as a show
 
