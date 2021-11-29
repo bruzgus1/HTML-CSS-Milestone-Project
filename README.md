@@ -40,14 +40,22 @@ This website is intended for beginner or intermediate anime watchers, in hopes o
 
 1. **Navigatiod Bar**
 
+![navigation menu screenshot](/assets/images/nav-bar.webp)
+
     - Featured on all three pages, the full responsive navigation bar includes links to the  Home page, Official List and My Personal List page and is identical in each page to allow for easy navigation.
     - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 2. **Landing Page**
+![partial home page screenshot](/assets/images/home-page.webp)
+
     - The landing page has an explanation of what this site hopes to provide for the user
     - The landing Page also has a video that any level Anime fan will find enjoyable
 3. **The Official List**
+![partial official list page screenshot](/assets/images/official-list.webp)
+
     - The official list is just like it sounds, it has a community voted list of the most enjoyable anime there is
 4. **My Personal List**
+![partial personal list page screenshot](/assets/images/personal-list.webp)
+
     - My Personal List is a list I created of under rated or not as well known anime that I think everyone should try and watch of there quality as a show
 
 ## Technologies Used
@@ -102,7 +110,7 @@ Development and initial testing took place on a MacBook Air in Chrome. Subsequen
     - Safari
 
 ## Known Bugs
-- on an Ipad the title of the page is not on the right side of the page
+- on mobile the lay out is a bit broken 
 
 ## Deployment
 This site was developed in Gitpod, committed and pushed to Github, and deployed on GitHub Pages.
@@ -129,7 +137,7 @@ The live link can be found [Here](https://bruzgus1.github.io/HTML-CSS-Milestone-
 
 ## Credits
 - Code Institute Tutor Support - The best help anyone could ask for
-**Images**
+## **Images**
 - All images were found on Google Images
 
 ## Plagiarism
