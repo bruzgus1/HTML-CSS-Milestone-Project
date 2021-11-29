@@ -146,4 +146,13 @@ p {
         height: 25rem;
         padding: 0;
     }
+
+    #title {
+        display: flex;
+        justify-content: left;
+        font-size: 280%;
+        margin: 0;
+        padding: 0;
+        max-width: 100%;
+    }
 }

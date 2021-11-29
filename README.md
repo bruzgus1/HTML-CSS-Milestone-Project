@@ -113,6 +113,17 @@ This site was developed in Gitpod, committed and pushed to Github, and deployed 
 4. Under the **Source** heading, clicked on the **Branch** dropdown, and selected **Main**.
 5. Clicked on **Save**, deploying the site.
 6. Clicked on the URL at the top of the **GitHub Pages** section to navigate to the live site.
+7. *More info on deploying to **GitHub Pages** can be found [here](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site#creating-your-site).*
+
+### To run and edit the code for this site locally, follow these steps:
+* Log in to GitHub and navigate to the site's **[repository](https://github.com/bruzgus1/HTML-CSS-Milestone-Project)**.
+* Click on the green **Code** button.
+* Copy the URL under **Clone with HTTPS** by clicking on the **Copy** button.
+* Open the terminal in your IDE, and navigate to the desired directory.
+* Type `git clone` into the terminal, and paste in the copied URL, e.g.,  
+``git clone https://github.com/bruzgus1/HTML-CSS-Milestone-Project``
+* Press enter to clone the repository.
+* *More info on cloning a **GitHub** repository can be found [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).*
 
 The live link can be found [Here](https://bruzgus1.github.io/HTML-CSS-Milestone-Project/official-list.html)
 
@@ -123,4 +134,4 @@ The live link can be found [Here](https://bruzgus1.github.io/HTML-CSS-Milestone-
 
 ## Plagiarism
 
-The Basic Structure for the README file was taken from kevinoc554. You can find his GitHub profile [Here](https://github.com/kevinoc554), and the README file I used as a base can be found [Here](https://github.com/kevinoc554/spellbook/blob/master/README.md).
+The Basic Structure for the README file and the "deployment" section was taken from kevinoc554. You can find his GitHub profile [Here](https://github.com/kevinoc554), and the README file I used as a base can be found [Here](https://github.com/kevinoc554/spellbook/blob/master/README.md).
