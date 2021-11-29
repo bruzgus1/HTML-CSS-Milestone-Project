@@ -1,5 +1,7 @@
 # Project Goals
-This website is intended for beginner or intermediate anime watchers,in hopes of providing a list for the most popular and highly liked anime there is, the ranking is from [MyAnimeList](https://myanimelist.net/) the most known anime site in the world. There is also a section of my personal best anime where I made a list of under rated or less know but still very good and enjoyable anime shows, that even an experienced anime watcher might like and find something they haven't heard about.
+[View the live project here.](https://bruzgus1.github.io/HTML-CSS-Milestone-Project/official-list.html)
+
+This website is intended for beginner or intermediate anime watchers, in hopes of providing a list for the most popular and highly liked anime there is, the ranking is from [MyAnimeList](https://myanimelist.net/) the most known anime site in the world. There is also a section of my personal best anime where I made a list of under rated or less know but still very good and enjoyable anime shows, that even an experienced anime watcher might like and find something they haven't heard about.
 
 **User Goals:**
 
@@ -28,7 +30,7 @@ This website is intended for beginner or intermediate anime watchers,in hopes of
 - **Imagery**
     - The images in the home page are used to catch the users attention with well known and liked anime covers
 - **Wireframes**
-    - Home Page Wireframe - [View](/wireframes/home.pdf)
+    - Home Page Wireframe - [View](/wireframes/home.png)
     - Official List Wireframe - [View](/wireframes/official-list.pdf)
     - Personal List Wireframe - [View](/wireframes/personal-list.pdf)
 
@@ -38,15 +40,15 @@ This website is intended for beginner or intermediate anime watchers,in hopes of
 
 1. **Navigatiod Bar**
 
-- Featured on all three pages, the full responsive navigation bar includes links to the  Home page, Official List and My Personal List page and is identical in each page to allow for easy navigation.
-- This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+    - Featured on all three pages, the full responsive navigation bar includes links to the  Home page, Official List and My Personal List page and is identical in each page to allow for easy navigation.
+    - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 2. **Landing Page**
-- The landing page has an explanation of what this site hopes to provide for the user
-- The landing Page also has a video that any level Anime fan will find enjoyable
+    - The landing page has an explanation of what this site hopes to provide for the user
+    - The landing Page also has a video that any level Anime fan will find enjoyable
 3. **The Official List**
-- The official list is just like it sounds, it has a community voted list of the most enjoyable anime there is
+    - The official list is just like it sounds, it has a community voted list of the most enjoyable anime there is
 4. **My Personal List**
-- My Personal List is a list I created of under rated or not as well known anime that I think everyone should try and watch of there quality as a show
+    - My Personal List is a list I created of under rated or not as well known anime that I think everyone should try and watch of there quality as a show
 
 ## Technologies Used
 - HTML5 - the pages of this site were designed using HTML.
@@ -55,6 +57,7 @@ This website is intended for beginner or intermediate anime watchers,in hopes of
 - GitHub - GitHub is used to store the projects code after being pushed from GitPod.
 - Google Fonts - Google Fonts were used throughout the project.
 - Balsalmic - Balsamic was used to make the wireframes for the website
+- Imgonline - was used to resize all the images to the same size
 
 ## Testing
 
@@ -68,16 +71,16 @@ This website is intended for beginner or intermediate anime watchers,in hopes of
 - As a user I want to understand the purpose of the website.
     - The Home page was a detailed text to explain to the user what the websites purpose is 
 - As a user I want to be able to easily navigate throughout the site to find the content.
-    - Every page on the website has a navigation menu to allow the user to find the information he looking for
+    - Every page on the website has a navigation menu to allow the user to find the information he is looking for
 - As a user I want to see some moments from anime to understand what quality of anime can I expect to find here
-    - The Home page has an incredibly well made video to show what anime is all about what quality it can have 
-    - The images on the Home page show a few well know and liked anime that a user could watch
+    - The Home page has an incredibly well made video to show what anime is all about and what quality it can have 
+    - The images on the Home page show a few well known and liked anime that a user could watch
 
 ## Automated Testing
 - Each page of the site was evaluated using Lighthouse to assess them on four metrics; Performance, Accessibility, Best Practices & Search Engine Optimization (SEO).
 - The following changes were implemented:
     1. Images format was changed from JPEG to WEBP
-    2. Images size was changed to be the same for all images
+    2. Image sizes were changed to be the same for all images
 
 ## Manual Testing 
 
@@ -111,10 +114,10 @@ This site was developed in Gitpod, committed and pushed to Github, and deployed 
 5. Clicked on **Save**, deploying the site.
 6. Clicked on the URL at the top of the **GitHub Pages** section to navigate to the live site.
 
-The live link can be found here
+The live link can be found [Here](https://bruzgus1.github.io/HTML-CSS-Milestone-Project/official-list.html)
 
 ## Credits
-- Tutor Support - The best help anyone could ask for
+- Code Institute Tutor Support - The best help anyone could ask for
 **Images**
 - All images were found on Google Images
 
