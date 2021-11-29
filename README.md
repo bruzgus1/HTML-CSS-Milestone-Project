@@ -1,5 +1,5 @@
 # Project Goals
-[View the live project here.](https://bruzgus1.github.io/HTML-CSS-Milestone-Project/official-list.html)
+[View the live project here.](https://bruzgus1.github.io/HTML-CSS-Milestone-Project/index.html)
 
 This website is intended for beginner or intermediate anime watchers, in hopes of providing a list for the most popular and highly liked anime there is, the ranking is from [MyAnimeList](https://myanimelist.net/) the most known anime site in the world. There is also a section of my personal best anime where I made a list of under rated or less know but still very good and enjoyable anime shows, that even an experienced anime watcher might like and find something they haven't heard about.
 
@@ -133,7 +133,7 @@ This site was developed in Gitpod, committed and pushed to Github, and deployed 
 * Press enter to clone the repository.
 * *More info on cloning a **GitHub** repository can be found [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).*
 
-The live link can be found [Here](https://bruzgus1.github.io/HTML-CSS-Milestone-Project/official-list.html)
+The live link can be found [Here](https://bruzgus1.github.io/HTML-CSS-Milestone-Project/index.html)
 
 ## Credits
 - Code Institute Tutor Support - The best help anyone could ask for
