@@ -161,15 +161,14 @@ p {
         width: 15rem;
         height: 25rem;
         padding: 0;
-        margin-right: 0;
-        margin-left: 0;
+        margin-left: 19vw;
     }
 
     .middle-second img {
         width: 15rem;
         height: 25rem;
         padding: 0;
-        margin-right: 42vw;
+        margin-right: 23vw;
     }
 
     #title {
@@ -179,5 +178,9 @@ p {
         margin: 0;
         padding: 0;
         max-width: 100%;
+    }
+
+    .video {
+        margin-left: 12em;
     }
 }
